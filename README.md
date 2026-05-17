@@ -9,6 +9,9 @@ This project was built to improve problem solving skills and strengthen understa
 
 Concepts: 
 Loops
+
 Conditional Statements
+
 Functions
+
 Basic game logic 
